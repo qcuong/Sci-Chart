@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\heart_icon_24dp.xml",
+        "source": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\heart_icon_24dp.xml"
+    },
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_realtime.xml",
+        "source": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_realtime.xml"
+    },
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\myema\\.android\\build-cache\\c23f71994b5ddf22c8c6eaa0298351975f4f7dc6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\myema\\.android\\build-cache\\c23f71994b5ddf22c8c6eaa0298351975f4f7dc6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_keyboard_arrow_right_black.xml",
+        "source": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_keyboard_arrow_right_black.xml"
+    }
+]

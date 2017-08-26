@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_realtime.png",
+        "source": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_realtime.png"
+    },
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black.png",
+        "source": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black.png"
+    },
+    {
+        "merged": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\heart_icon_24dp.png",
+        "source": "E:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\heart_icon_24dp.png"
+    }
+]

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+                                                             
+
+    
+
+                 
+                            
+                                                                          
+           
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/ecg_surface_margin"
+        android:orientation="horizontal" android:tag="layout/ecg_fragment_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:bind="http://schemas.android.com/apk/res-auto" xmlns:scichart="http://schemas.android.com/apk/res-auto">
+
+        <com.scichart.charting.visuals.SciChartSurface
+            android:id="@+id/chart"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            bind:layout_constraintRight_toLeftOf="@+id/linearLayout"
+            scichart:layout_constraintBottom_toBottomOf="parent"
+            scichart:layout_constraintLeft_toLeftOf="parent"
+            scichart:layout_constraintTop_toTopOf="parent"
+            android:tag="binding_1"                                                
+                                                                     
+                                               
+                                                />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:paddingStart="8dp"
+            android:orientation="vertical"
+            bind:layout_constraintBottom_toBottomOf="parent"
+            bind:layout_constraintRight_toRightOf="parent"
+            bind:layout_constraintTop_toTopOf="parent" android:tag="binding_2">
+
+
+            <include
+                layout="@layout/ecg_heart_rate_layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                                                   />
+
+            <include
+                layout="@layout/ecg_blood_pressure_layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                                                              />
+
+            <include
+                layout="@layout/ecg_blood_volume_layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                                                            />
+
+            <include
+                layout="@layout/ecg_blood_oxygenation_layout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                                                                 />
+
+        </LinearLayout>
+
+    </android.support.constraint.ConstraintLayout>
+         

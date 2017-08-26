@@ -1,0 +1,7 @@
+#Wed Aug 23 23:26:02 ICT 2017
+base.0=E\:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1809e6dcba368692aee7050aecf7de8f35e18f7e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_81b11ed5ba00ad3b2e4eb2c04fe6b458a82aee98\\classes.dex
+base.1=E\:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_81b11ed5ba00ad3b2e4eb2c04fe6b458a82aee98
+file.0=E\:\\DOWNLOADS\\SciChart.Android.Examples-master\\v2.x\\Showcase\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1809e6dcba368692aee7050aecf7de8f35e18f7e\\classes.dex
